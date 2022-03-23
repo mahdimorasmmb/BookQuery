@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@rebass/form": "^1.0.0-2",
+    "@rebass/forms": "^4.0.6",
     "@rebass/preset": "^4.0.5",
     "dotenv": "^16.0.0",
     "react": "^17.0.2",
